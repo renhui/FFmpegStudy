@@ -1,0 +1,8 @@
+﻿  FFmpeg.cpp
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(36): warning C4996: 'av_register_all': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavformat\avformat.h(2043): note: 参见“av_register_all”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(30): warning C4101: “out_filename”: 未引用的局部变量
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(30): warning C4101: “in_filename”: 未引用的局部变量
+  FFmpeg.vcxproj -> C:\Users\maomao\source\repos\FFmpeg\Debug\FFmpeg.exe

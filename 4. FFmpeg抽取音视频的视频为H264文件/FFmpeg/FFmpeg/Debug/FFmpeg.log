@@ -1,0 +1,22 @@
+﻿  FFmpeg.cpp
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(102): warning C4244: “参数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(111): warning C4244: “=”: 从“uint64_t”转换到“uint8_t”，可能丢失数据
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(131): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(208): warning C4996: 'AVStream::codec': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavformat\avformat.h(878): note: 参见“AVStream::codec”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(209): warning C4996: 'AVStream::codec': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavformat\avformat.h(878): note: 参见“AVStream::codec”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(248): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(245): warning C4102: “next_nal”: 未引用的标签
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(305): warning C4996: 'AVStream::codec': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavformat\avformat.h(878): note: 参见“AVStream::codec”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(276): warning C4996: 'av_register_all': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavformat\avformat.h(2043): note: 参见“av_register_all”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(292): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(279): warning C4101: “len”: 未引用的局部变量
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(342): warning C4996: 'av_register_all': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavformat\avformat.h(2043): note: 参见“av_register_all”的声明
+  FFmpeg.vcxproj -> C:\Users\maomao\source\repos\FFmpeg\Debug\FFmpeg.exe

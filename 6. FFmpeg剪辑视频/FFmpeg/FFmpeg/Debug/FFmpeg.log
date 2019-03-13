@@ -1,0 +1,23 @@
+﻿  FFmpeg.cpp
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(59): warning C4996: 'AVStream::codec': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavformat\avformat.h(878): note: 参见“AVStream::codec”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(66): warning C4996: 'AVStream::codec': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavformat\avformat.h(878): note: 参见“AVStream::codec”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(71): warning C4996: 'AVStream::codec': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavformat\avformat.h(878): note: 参见“AVStream::codec”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(73): warning C4996: 'AVStream::codec': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavformat\avformat.h(878): note: 参见“AVStream::codec”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(91): warning C4244: “参数”: 从“double”转换到“int64_t”，可能丢失数据
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(34): warning C4996: 'av_register_all': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavformat\avformat.h(2043): note: 参见“av_register_all”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(66): warning C4996: 'avcodec_copy_context': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavcodec\avcodec.h(4178): note: 参见“avcodec_copy_context”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(113): warning C4996: 'av_free_packet': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavcodec\avcodec.h(4416): note: 参见“av_free_packet”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(141): warning C4996: 'av_free_packet': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavcodec\avcodec.h(4416): note: 参见“av_free_packet”的声明
+c:\users\maomao\source\repos\ffmpeg\ffmpeg\ffmpeg.cpp(165): warning C4996: 'av_register_all': 被声明为已否决
+  c:\users\maomao\source\repos\ffmpeg\ffmpeg\include\libavformat\avformat.h(2043): note: 参见“av_register_all”的声明
+  FFmpeg.vcxproj -> C:\Users\maomao\source\repos\FFmpeg\Debug\FFmpeg.exe
